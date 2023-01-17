@@ -8,5 +8,6 @@
 </head>
 <body>
    <h1>Primeira Aula github</h1>
+   <h2>Commit é aquilo que aplicamos ou criamos</h2>
 </body>
 </html>
